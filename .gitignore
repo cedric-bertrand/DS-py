@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# my ignore - cedric
+# input and output dir
+.input
+.output
+.data
+.results
