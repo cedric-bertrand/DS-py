@@ -105,7 +105,10 @@ venv.bak/
 
 # my ignore - cedric
 # input and output dir
-.input
-.output
-.data
-.results
+*.input
+*.output
+*.data
+*.results
+*.csv
+# Tensorflow files
+*.h5
